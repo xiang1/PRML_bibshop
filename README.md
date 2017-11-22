@@ -11,5 +11,5 @@
 ## [2 Probability Distributions](http://nbviewer.jupyter.org/github/xiang1/PRML_bibshop/tree/master/2.%20Probability%20Distributions/)
 
 * [2.1 Binary Variables](https://github.com/xiang1/PRML_bibshop/blob/master/2.%20Probability%20Distributions/2.1%20Binary%20Variables.ipynb)[**in nbviewer**](http://nbviewer.jupyter.org/github/xiang1/PRML_bibshop/blob/master/2.%20Probability%20Distributions/2.1%20Binary%20Variables.ipynb)
-* [2.2 Multinomial Variables]（https://github.com/xiang1/PRML_bibshop/blob/master/2.%20Probability%20Distributions/2.2.%20Multinomial%20Variables.ipynb) [**in nbviewer**](http://nbviewer.jupyter.org/github/xiang1/PRML_bibshop/blob/master/2.%20Probability%20Distributions/2.2.%20Multinomial%20Variables.ipynb)
+* [2.2 Multinomial Variables](https://github.com/xiang1/PRML_bibshop/blob/master/2.%20Probability%20Distributions/2.2.%20Multinomial%20Variables.ipynb) [**in nbviewer**](http://nbviewer.jupyter.org/github/xiang1/PRML_bibshop/blob/master/2.%20Probability%20Distributions/2.2.%20Multinomial%20Variables.ipynb)
 * [2.3 The Gaussian Distribution](https://github.com/xiang1/PRML_bibshop/blob/master/2.%20Probability%20Distributions/2.3%20The%20Gaussian%20Distribution.ipynb)[**in nbviewer**](http://nbviewer.jupyter.org/github/xiang1/PRML_bibshop/blob/master/2.%20Probability%20Distributions/2.3%20The%20Gaussian%20Distribution.ipynb)
