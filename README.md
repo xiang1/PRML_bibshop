@@ -16,3 +16,8 @@
 * [**2.3 The Gaussian Distribution**](https://github.com/xiang1/PRML_bibshop/blob/master/2.%20Probability%20Distributions/2.3%20The%20Gaussian%20Distribution.ipynb) [in nbviewer](http://nbviewer.jupyter.org/github/xiang1/PRML_bibshop/blob/master/2.%20Probability%20Distributions/2.3%20The%20Gaussian%20Distribution.ipynb)
 * [**2.4 The exponentical Family**](https://github.com/xiang1/PRML_bibshop/blob/master/2.%20Probability%20Distributions/2.4%20The%20Exponential%20Family.ipynb) [in nbviewer](http://nbviewer.jupyter.org/github/xiang1/PRML_bibshop/blob/master/2.%20Probability%20Distributions/2.4%20The%20Exponential%20Family.ipynb)
 * [**2.5 Nonparametric Methods**](https://github.com/xiang1/PRML_bibshop/blob/master/2.%20Probability%20Distributions/2.5%20Nonparametric%20Methods.ipynb) [in nbviewer](http://nbviewer.jupyter.org/github/xiang1/PRML_bibshop/blob/master/2.%20Probability%20Distributions/2.5%20Nonparametric%20Methods.ipynb)
+
+
+## [**3 Linear Model for regression**](http://nbviewer.jupyter.org/github/xiang1/PRML_bibshop/tree/master/3.%20Linear%20Models%20for%20Regression/)
+
+* [**3.1 Linear Basis Function models**](https://github.com/xiang1/PRML_bibshop/blob/master/3.%20Linear%20Models%20for%20Regression/3.1%20Linear%20Basis%20Function%20Models.ipynb) [in nbviewer](http://nbviewer.jupyter.org/github/xiang1/PRML_bibshop/blob/master/3.%20Linear%20Models%20for%20Regression/3.1%20Linear%20Basis%20Function%20Models.ipynb)
